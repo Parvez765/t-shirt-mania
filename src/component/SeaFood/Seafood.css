@@ -1,0 +1,18 @@
+.seaFoodContainer {
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.seaFoodContainer img{
+    width: 350px;
+    margin-top: 20px;
+}
+.addBtn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: coral;
+    border: none;
+    color: white;
+}
